@@ -9,6 +9,6 @@ function Cat(name, breed) {
     };
 }
 
-let cat = new Cat("Матроскин", "дворняга");
+let cat = new Cat("Матроскин", "Беспородный");
 
 cat.sayMeow();
