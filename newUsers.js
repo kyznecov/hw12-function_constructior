@@ -1,3 +1,5 @@
+"use strict"
+
 function User(firstName, lastName, age) {
     this.firstName = firstName;
     this.lastName = lastName;
