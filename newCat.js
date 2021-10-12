@@ -1,3 +1,5 @@
+"use strict"
+
 function Cat(name, breed) {
     this.name = name;
     this.breed = breed;
